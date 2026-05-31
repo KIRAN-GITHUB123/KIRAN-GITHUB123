@@ -19,7 +19,7 @@
 ---
 
 ### 🥷 Profile Brief
-I am a driven 4th-year Computer Science student specializing in Artificial Intelligence and Machine Learning. My engineering focus lies at the intersection of deep learning and cybersecurity—building scalable big data profiling pipelines, developing graph-based neural architectures, and orchestrating adversarial attack simulations[cite: 1, 4]. I am currently open to freelance opportunities, collaborations, and internships.
+I am a driven 4th-year Computer Science student specializing in Artificial Intelligence and Machine Learning. My engineering focus lies at the intersection of deep learning and cybersecurity—building scalable big data profiling pipelines, developing graph-based neural architectures, and orchestrating adversarial attack simulations. I am currently open to freelance opportunities, collaborations, and internships.
 
 ### 🛠️ Neural & Security Architecture
 
