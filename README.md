@@ -51,7 +51,7 @@ I am a driven 4th-year Computer Science student specializing in Artificial Intel
     Designed a relational database (27 tables, 3NF) for high-integrity business data management, integrating an AI module using Linear Regression for automated financial forecasting.
 
 ## Classified / Local Research & Development
-> ⚠️ **Note:** *The following are advanced research frameworks currently maintained locally, intended for publication as academic papers when the opportunity presents itself. Source code, architectures, and detailed documentation are available upon request validation.*
+> ⚠️ Note: The following are advanced research frameworks currently maintained locally, intended for upcoming academic publication. Source code and architectural details are available upon request for interviews or collaborations.
 
 <details>
 <summary><b>1. Adversarial Traffic Synthesis Engine</b></summary>
