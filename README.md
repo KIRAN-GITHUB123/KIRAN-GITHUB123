@@ -40,7 +40,7 @@ I am a Computer Science student specializing in Artificial Intelligence and Mach
 ### 🔒 Localized Research & Development
 *Note: The following projects represent advanced research currently maintained locally, intended to be published as academic papers when the opportunity presents itself. Source code and detailed documentation will be made available upon request validation.*
 
-*   **EvasionAI / TITAN (Adversarial Traffic Synthesis Engine):** A long-term, comprehensive red team operations pipeline combining Diffusion Transformers (DiT), WGAN-GP, and Reinforcement Learning to generate polymorphic synthetic cyberattack data[cite: 3, 4, 5]. Engineered with hardware-specific optimizations to stress-test and bypass multi-layered Intrusion Detection Systems (IDS) for security infrastructure evaluation[cite: 2, 4, 5].
+*   **Adversarial Traffic Synthesis Engine:** A long-term project, aimed at a comprehensive red team operations pipeline combining Diffusion Transformers (DiT), WGAN-GP, and Reinforcement Learning to generate polymorphic synthetic cyberattack data. Engineered with hardware-specific optimizations to stress-test and bypass multi-layered Intrusion Detection Systems (IDS) for security infrastructure evaluation.
 *   **Machine Unlearning Framework:** Developed an MLX native framework (Hybrid Saliency Guided NPO) to achieve unlearning on small to mid-scale (1B-14B) models, deploying 16-Bit, 8-Bit, and 4-Bit quantizations.
 *   **API Sequence Graph Classification:** Engineered a GNN using Apple's MLX to classify sequential anomaly data by modeling API call sequences, utilizing SHAP/occlusion analysis for actionable insights.
 
