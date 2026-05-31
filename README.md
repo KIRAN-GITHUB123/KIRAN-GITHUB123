@@ -53,7 +53,7 @@ I am a driven 4th-year Computer Science student specializing in Artificial Intel
 > **⚠️ Note:** *The following are advanced research frameworks currently maintained locally, intended for upcoming academic publication. Source code and architectural details are available upon request for interviews or collaborations.*
 
 <details>
-<summary><b>1. Adversarial Traffic Synthesis Engine</b></summary>
+<summary><b>1. IDS Resilience Engine</b></summary>
 <br>
 A long-term research framework that leverages Diffusion Transformers (DiT), WGAN-GP, and Reinforcement Learning to generate high-fidelity, polymorphic synthetic network traffic. The project focuses on data augmentation to improve the robustness of Intrusion Detection Systems (IDS). By engineering hardware-optimized synthesis pipelines, this engine enables enterprise-grade stress testing to identify and address detection gaps in multi-layered security architectures.
 </details>
