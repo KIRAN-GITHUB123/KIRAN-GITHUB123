@@ -53,19 +53,19 @@ I am a driven 4th-year Computer Science student specializing in Artificial Intel
 ## Classified / Local Research & Development
 > ⚠️ **Note:** *The following are advanced research frameworks currently maintained locally, intended for publication as academic papers when the opportunity presents itself. Source code, architectures, and detailed documentation are available upon request validation.*
 
-<details>
+<details open>
 <summary><h3>1. Adversarial Traffic Synthesis Engine</h3></summary>
 <br>
 A long-term project, aimed at a comprehensive red team operations pipeline combining Diffusion Transformers (DiT), WGAN-GP, and Reinforcement Learning to generate polymorphic synthetic cyberattack data. Engineered with hardware-specific optimizations to stress-test and bypass multi-layered Intrusion Detection Systems (IDS) for enterprise security infrastructure evaluation.
 </details>
 
-<details>
+<details open>
 <summary><h3>2. MLX Machine Unlearning Framework</h3></summary>
 <br>
 Developed an Apple MLX native framework (Hybrid Saliency Guided NPO) to achieve machine unlearning on small to mid-scale (1B-14B) models. Successfully deployed 16-Bit, 8-Bit, and 4-Bit quantizations without catastrophic collapse, ensuring high performance on consumer-grade devices.
 </details>
 
-<details>
+<details open>
 <summary><h3>3. API Sequence Graph Classification</h3></summary>
 <br>
 Engineered a Graph Neural Network (GNN) using Apple's MLX and `mlx-graphs` to classify sequential anomaly data by modeling API call sequences as structural graphs. Benchmarked against MLP/RF baselines, utilizing SHAP and occlusion analysis for actionable insights on influential data points.
