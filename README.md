@@ -86,10 +86,7 @@ Engineered a Graph Neural Network (GNN) using Apple's MLX and `mlx-graphs` to cl
 
 ---
 <div align="center">
-<pre>
-   ⬡
- ⬢   ⬢
-   ⬡
-NEUTRON
-</pre>
+  <p>🔐 <b>SECURE COMMS</b></p>
+  <code>GPG Fingerprint: ABCD 1234 EFGH 5678 IJKL 9012 MNOP 3456</code><br>
+  <i>(Keyserver: hkps://keys.openpgp.org)</i>
 </div>
