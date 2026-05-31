@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 ### Profile Brief
 I am a driven 4th-year Computer Science student specializing in Artificial Intelligence and Machine Learning. My engineering focus lies at the intersection of deep learning and cybersecurity—building scalable big data profiling pipelines, developing graph-based neural architectures, and orchestrating adversarial attack simulations. I am currently open to freelance opportunities, collaborations, and internships.
 
@@ -36,8 +34,6 @@ I am a driven 4th-year Computer Science student specializing in Artificial Intel
 
 </details>
 
----
-
 ### Public Open-Source Frameworks
 
 *   **[OSINT-VTM](https://github.com/KIRAN-GITHUB123/OSNIT-VTM)** <br>
@@ -49,8 +45,6 @@ I am a driven 4th-year Computer Science student specializing in Artificial Intel
 *   **[nexlify](https://github.com/KIRAN-GITHUB123/nexlify)** <br>
     *Enterprise DBMS & Predictive Analytics.* <br>
     Designed a relational database (27 tables, 3NF) for high-integrity business data management, integrating an AI module using Linear Regression for automated financial forecasting.
-
----
 
 ### Classified / Local Research & Development
 > ⚠️ **Note:** *The following are advanced research frameworks currently maintained locally, intended for publication as academic papers when the opportunity presents itself. Source code, architectures, and detailed documentation are available upon request validation.*
@@ -73,8 +67,6 @@ Developed an Apple MLX native framework (Hybrid Saliency Guided NPO) to achieve 
 Engineered a Graph Neural Network (GNN) using Apple's MLX and `mlx-graphs` to classify sequential anomaly data by modeling API call sequences as structural graphs. Benchmarked against MLP/RF baselines, utilizing SHAP and occlusion analysis for actionable insights on influential data points.
 </details>
 
----
-
 ### 📜 Publications & Certifications
 
 **Academic Research**
@@ -84,7 +76,6 @@ Engineered a Graph Neural Network (GNN) using Apple's MLX and `mlx-graphs` to cl
 **Industry Certifications**
 > `Google Cybersecurity` | `CISCO Intro to Cybersecurity` | `Palo Alto Cyber Security Fundamentals` | `ArcX Cyber Threat Intel 101`
 
----
 <div align="center">
   <p><code>[ END OF TRANSMISSION ]</code></p>
   <code>01011001 01101111 01110101 00100000 01110011 01101000 01101111 01110101 01101100 01100100 00100000 01110010 01100101 01100001 01101100 01101100 01111001 00100000 01100110 01101001 01101110 01100100 00100000 01100001 01101110 01101111 01110100 01101000 01100101 01110010 00100000 01101000 01101111 01100010 01100010 01111001 00100000 00111011 00101001</code>
