@@ -84,8 +84,7 @@ Engineered a Graph Neural Network (GNN) using Apple's MLX and `mlx-graphs` to cl
 **Industry Certifications**
 > `Google Cybersecurity` | `CISCO Intro to Cybersecurity` | `Palo Alto Cyber Security Fundamentals` | `ArcX Cyber Threat Intel 101`
 
----
 <div align="center">
-  <p><i>"In God we trust. All others must bring data."</i></p>
-  <img src="https://profile-counter.glitch.me/KIRAN-GITHUB123/count.svg" alt="Visitor Count" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <p><b>END OF TRANSMISSION</b></p>
 </div>
