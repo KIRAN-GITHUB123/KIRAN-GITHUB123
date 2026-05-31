@@ -73,7 +73,7 @@ Engineered a Graph Neural Network (GNN) using Apple's MLX and `mlx-graphs` to cl
 ## 📜 Publications & Certifications
 
 **Academic Research**
-* * **Co-Author:** [*Lightweight Learning Chat Bot Using Sentence Embeddings for Contextual Similarity Matching*](https://doi.org/10.1109/AISTS66100.2025.11233150) — Published at **IEEE AISTS 2025** (Intl. Conf. on AI & Smart Technologies for Sustainability).
+* **Co-Author:** [*Lightweight Learning Chat Bot Using Sentence Embeddings for Contextual Similarity Matching*](https://doi.org/10.1109/AISTS66100.2025.11233150) — Published at **IEEE AISTS 2025** (Intl. Conf. on AI & Smart Technologies for Sustainability).
 * **Author:** *The False Stability Paradox: A Multi-Algorithm Analysis of Label Granularity in Big Data Cybersecurity Clustering* — Currently under review at the **Journal of Big Data**.
 
 **Industry Certifications**
