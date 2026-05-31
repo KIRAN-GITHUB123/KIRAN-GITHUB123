@@ -1,59 +1,90 @@
-# Hi there, I'm Kiran 👋
+<div align="center">
+  
+  # ⚡ Kiran Kolavil Puleri (Neutron)
+  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=CSE+(AI+%26+ML)+Undergraduate;IEEE+Published+Researcher;Cybersecurity+Data+Scientist;Graph+Neural+Networks+Explorer" alt="Typing SVG" />
+  </a>
 
-<p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=3A86FF&width=435&lines=AI+%26+ML+Researcher;Cybersecurity+Data+Scientist;Graph+Neural+Networks+Explorer" alt="Typing SVG" /></a>
-</p>
+  <p align="center">
+    <b>Bridging the gap between High-Performance AI and Offensive Cybersecurity.</b><br>
+    <i>Expected 2027 • Manipal Institute of Technology • Based in Abu Dhabi, UAE</i>
+  </p>
 
-I am a Computer Science student specializing in Artificial Intelligence and Machine Learning. My work focuses on building high-performance, scalable pipelines, developing graph-based neural architectures, and addressing security anomalies using deep learning and big data frameworks.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:kirankolavilpuleri@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirankolavilpuleri@gmail.com)
 
----
-
-### 🛠️ Technical Stack
-
-**Languages & Core Frameworks**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-
-**AI / ML & Big Data**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Specialized Frameworks & Cybersecurity**
-*   **Apple MLX:** Native machine learning on Apple Silicon.
-*   **Data Science Suite:** Scikit-learn, Pandas, NumPy, Optuna, SHAP, NetworkX, mlx graphs.
-*   **Cybersecurity:** Malware Analysis, Network Threat Profiling, OSINT, Packet Analysis, Vulnerability Assessment.
+</div>
 
 ---
 
-### 🚀 Featured Public Projects
+### 🥷 Profile Brief
+I am a driven 4th-year Computer Science student specializing in Artificial Intelligence and Machine Learning. My engineering focus lies at the intersection of deep learning and cybersecurity—building scalable big data profiling pipelines, developing graph-based neural architectures, and orchestrating adversarial attack simulations[cite: 1, 4]. I am currently open to freelance opportunities, collaborations, and internships.
 
-*   **[OSINT-VTM](https://github.com/KIRAN-GITHUB123/OSNIT-VTM)** – A hybrid classical-deep learning framework designed for automated visual threat intelligence. It scans geospatial data (Mapillary API) to identify physical anomalies using OpenCV, featuring automated analytics with HOG person detection and dynamic PDF reporting.
-*   **[pyspark_threat_intelligence_engine](https://github.com/KIRAN-GITHUB123/pyspark_threat_intelligence_engine)** – A threat profiling engine utilizing PySpark.
-*   **[nexlify](https://github.com/KIRAN-GITHUB123/nexlify)** – A backend management system built for high-integrity business data, engineered with a normalized relational schema and predictive analytics.
+### 🛠️ Neural & Security Architecture
 
----
+<details open>
+<summary><b>View Technical Stack</b></summary>
+<br>
 
-### 🔒 Localized Research & Development
-*Note: The following projects represent advanced research currently maintained locally, intended to be published as academic papers when the opportunity presents itself. Source code and detailed documentation will be made available upon request validation.*
+| Domain | Technologies |
+| :--- | :--- |
+| **Core Languages** | ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=MySQL&logoColor=white) |
+| **Deep Learning & AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) ![Apple MLX](https://img.shields.io/badge/Apple_MLX-000000?style=flat-square&logo=apple&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Big Data & Compute** | ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Cybersecurity** | `Malware Analysis` `Network Threat Profiling` `OSINT` `Packet Analysis` `Vulnerability Assessment` |
 
-*   **Adversarial Traffic Synthesis Engine:** A long-term project, aimed at a comprehensive red team operations pipeline combining Diffusion Transformers (DiT), WGAN-GP, and Reinforcement Learning to generate polymorphic synthetic cyberattack data. Engineered with hardware-specific optimizations to stress-test and bypass multi-layered Intrusion Detection Systems (IDS) for security infrastructure evaluation.
-*   **Machine Unlearning Framework:** Developed an MLX native framework (Hybrid Saliency Guided NPO) to achieve unlearning on small to mid-scale (1B-14B) models, deploying 16-Bit, 8-Bit, and 4-Bit quantizations.
-*   **API Sequence Graph Classification:** Engineered a GNN using Apple's MLX to classify sequential anomaly data by modeling API call sequences, utilizing SHAP/occlusion analysis for actionable insights.
-
----
-
-### 📝 Publications & Research
-
-*   **Co-Author** | *Lightweight Learning Chat Bot Using Sentence Embeddings for Contextual Similarity Matching* – **IEEE AISTS 2025**
-*   **Author** | *The False Stability Paradox: A Multi-Algorithm Analysis of Label Granularity in Big Data Cybersecurity Clustering* – *Under Review (Journal of Big Data)*
+</details>
 
 ---
 
-### 📬 Connect With Me
+### 🚀 Public Open-Source Frameworks
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:kirankolavilpuleri@gmail.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirankolavilpuleri@gmail.com)
+*   **[OSINT-VTM](https://github.com/KIRAN-GITHUB123/OSNIT-VTM)** <br>
+    *A hybrid classical-deep learning framework for automated visual threat intelligence.* <br>
+    Scans geospatial data via the Mapillary API to identify physical anomalies using OpenCV, featuring automated analytics with HOG person detection and dynamic PDF reporting.
+*   **[pyspark_threat_intelligence_engine](https://github.com/KIRAN-GITHUB123/pyspark_threat_intelligence_engine)** <br>
+    *Scalable Big Data Profiling Pipeline.* <br>
+    Engineered a scalable PySpark pipeline utilizing MLlib (K-Means) to process, cluster, and track behavioral anomalies across 9.1M+ complex network records (CIC-Collection). 
+*   **[nexlify](https://github.com/KIRAN-GITHUB123/nexlify)** <br>
+    *Enterprise DBMS & Predictive Analytics.* <br>
+    Designed a relational database (27 tables, 3NF) for high-integrity business data management, integrating an AI module using Linear Regression for automated financial forecasting.
+
+---
+
+### 🔒 Classified / Local Research & Development
+> ⚠️ **Note:** *The following are advanced research frameworks currently maintained locally, intended for publication as academic papers when the opportunity presents itself. Source code, architectures, and detailed documentation are available upon request validation.*
+
+<details>
+<summary><b>1. Adversarial Traffic Synthesis Engine</b></summary>
+<br>
+A long-term project, aimed at a comprehensive red team operations pipeline combining Diffusion Transformers (DiT), WGAN-GP, and Reinforcement Learning to generate polymorphic synthetic cyberattack data. Engineered with hardware-specific optimizations to stress-test and bypass multi-layered Intrusion Detection Systems (IDS) for enterprise security infrastructure evaluation.
+</details>
+
+<details>
+<summary><b>2. MLX Machine Unlearning Framework</b></summary>
+<br>
+Developed an Apple MLX native framework (Hybrid Saliency Guided NPO) to achieve machine unlearning on small to mid-scale (1B-14B) models. Successfully deployed 16-Bit, 8-Bit, and 4-Bit quantizations without catastrophic collapse, ensuring high performance on consumer-grade devices.
+</details>
+
+<details>
+<summary><b>3. API Sequence Graph Classification</b></summary>
+<br>
+Engineered a Graph Neural Network (GNN) using Apple's MLX and `mlx-graphs` to classify sequential anomaly data by modeling API call sequences as structural graphs. Benchmarked against MLP/RF baselines, utilizing SHAP and occlusion analysis for actionable insights on influential data points.
+</details>
+
+---
+
+### 📜 Publications & Certifications
+
+**Academic Research**
+*   **Co-Author:** *Lightweight Learning Chat Bot Using Sentence Embeddings for Contextual Similarity Matching* — Accepted for publication at **IEEE AISTS 2025** (Intl. Conf. on AI & Smart Technologies for Sustainability).
+*   **Author:** *The False Stability Paradox: A Multi-Algorithm Analysis of Label Granularity in Big Data Cybersecurity Clustering* — Currently under review at the **Journal of Big Data**.
+
+**Industry Certifications**
+> `Google Cybersecurity` | `CISCO Intro to Cybersecurity` | `Palo Alto Cyber Security Fundamentals` | `ArcX Cyber Threat Intel 101`
+
+<div align="center">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=100&section=footer" width="100%"/>
+</div>
