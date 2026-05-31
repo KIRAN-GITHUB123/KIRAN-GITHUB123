@@ -3,7 +3,7 @@
   <h1 align="center">Kiran Kolavil Puleri</h1>
   
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=CSE+(AI+%26+ML)+Undergraduate;IEEE+Published+Researcher;Cybersecurity+Data+Scientist;Graph+Neural+Networks+(MLX)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=CSE+(AI+%26+ML)+Undergraduate;IEEE+AISTS+2025+Published+Co-Author;Cybersecurity+Data+Scientist;Graph+Neural+Networks+(MLX)" alt="Typing SVG" />
   </a>
 
   <br><br>
