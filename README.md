@@ -55,7 +55,7 @@ I am a driven 4th-year Computer Science student specializing in Artificial Intel
 <details>
 <summary><b>1. Adversarial Traffic Synthesis Engine</b></summary>
 <br>
-A long-term project, aimed at a comprehensive red team operations pipeline combining Diffusion Transformers (DiT), WGAN-GP, and Reinforcement Learning to generate polymorphic synthetic cyberattack data. Engineered with hardware-specific optimizations to stress-test and bypass multi-layered Intrusion Detection Systems (IDS) for enterprise security infrastructure evaluation.
+A long-term research framework that leverages Diffusion Transformers (DiT), WGAN-GP, and Reinforcement Learning to generate high-fidelity, polymorphic synthetic network traffic. The project focuses on data augmentation to improve the robustness of Intrusion Detection Systems (IDS). By engineering hardware-optimized synthesis pipelines, this engine enables enterprise-grade stress testing to identify and address detection gaps in multi-layered security architectures.
 </details>
 
 <details>
