@@ -1,6 +1,6 @@
 <div align="center">
   
-  # ⚡ Kiran Kolavil Puleri (Neutron)
+  # Kiran Kolavil Puleri
   
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=CSE+(AI+%26+ML)+Undergraduate;IEEE+Published+Researcher;Cybersecurity+Data+Scientist;Graph+Neural+Networks+Explorer" alt="Typing SVG" />
@@ -18,10 +18,10 @@
 
 ---
 
-### 🥷 Profile Brief
+### Profile Brief
 I am a driven 4th-year Computer Science student specializing in Artificial Intelligence and Machine Learning. My engineering focus lies at the intersection of deep learning and cybersecurity—building scalable big data profiling pipelines, developing graph-based neural architectures, and orchestrating adversarial attack simulations. I am currently open to freelance opportunities, collaborations, and internships.
 
-### 🛠️ Neural & Security Architecture
+### Neural & Security Architecture
 
 <details open>
 <summary><b>View Technical Stack</b></summary>
@@ -38,7 +38,7 @@ I am a driven 4th-year Computer Science student specializing in Artificial Intel
 
 ---
 
-### 🚀 Public Open-Source Frameworks
+### Public Open-Source Frameworks
 
 *   **[OSINT-VTM](https://github.com/KIRAN-GITHUB123/OSNIT-VTM)** <br>
     *A hybrid classical-deep learning framework for automated visual threat intelligence.* <br>
@@ -52,7 +52,7 @@ I am a driven 4th-year Computer Science student specializing in Artificial Intel
 
 ---
 
-### 🔒 Classified / Local Research & Development
+### Classified / Local Research & Development
 > ⚠️ **Note:** *The following are advanced research frameworks currently maintained locally, intended for publication as academic papers when the opportunity presents itself. Source code, architectures, and detailed documentation are available upon request validation.*
 
 <details>
