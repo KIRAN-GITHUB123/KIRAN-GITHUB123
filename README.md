@@ -20,7 +20,7 @@
 <br>
 
 ## Profile Brief
-I am a driven 4th-year Computer Science student specializing in Artificial Intelligence and Machine Learning. My engineering focus lies at the intersection of deep learning and cybersecurity—building scalable big data profiling pipelines, developing graph-based neural architectures, and orchestrating adversarial attack simulations. I am currently open to freelance opportunities, collaborations, and internships.
+I am a driven 4th-year Computer Science student specializing in Artificial Intelligence and Machine Learning. My engineering focus lies at the intersection of deep learning and cybersecurity—building scalable big data profiling pipelines, developing graph-based neural architectures, and orchestrating IDS stress tests; from high-performance data parsing and feature extraction to rigorous statistical benchmarking and automated reporting. I am currently open to freelance opportunities, collaborations, and internships.
 
 ## Neural & Security Architecture
 
@@ -33,7 +33,7 @@ I am a driven 4th-year Computer Science student specializing in Artificial Intel
 | **Core Languages** | [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c) [![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white)](https://dev.mysql.com/doc/) |
 | **Deep Learning & AI** | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/docs/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/api_docs) [![Apple MLX](https://img.shields.io/badge/Apple_MLX-000000?style=for-the-badge&logo=apple&logoColor=white)](https://ml-explore.github.io/mlx/build/html/index.html) [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/user_guide.html) |
 | **Big Data & Compute** | [![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white)](https://hadoop.apache.org/docs/current/) [![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://docs.opencv.org/) |
-| **Cybersecurity** | `Malware Analysis` `Network Threat Profiling` `OSINT` `Packet Analysis` `Vulnerability Assessment` |
+| **Cybersecurity** | `Malware Analysis` `Network Threat Profiling` `OSINT` `Packet Analysis` `Vulnerability Assessment` `Malware Detection` `Robustness & Evasion Analysis` `Statistical Benchmarking` `Adversarial Traffic Modeling`|
 
 </details>
 
@@ -65,9 +65,9 @@ Developed an Apple MLX native framework (Hybrid Saliency Guided NPO) to achieve 
 </details>
 
 <details>
-<summary><b>3. API Sequence Graph Classification</b></summary>
+<summary><b>3. Comparative Analysis: Structure vs Semantics in API Sequences</b></summary>
 <br>
-Engineered a Graph Neural Network (GNN) using Apple's MLX and `mlx-graphs` to classify sequential anomaly data by modeling API call sequences as structural graphs. Benchmarked against MLP/RF baselines, utilizing SHAP and occlusion analysis for actionable insights on influential data points.
+An investigative framework benchmarking Graph Neural Networks (GNNs) against classical ML baselines (e.g., TF-IDF + Random Forest). Utilizing statistical significance tests (McNemar, Wilcoxon) and SHAP interpretability to evaluate the actual necessity of high-complexity graph architectures in malware detection pipelines.
 </details>
 
 ## 📜 Publications & Certifications
