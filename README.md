@@ -8,8 +8,8 @@
 
   <br><br>
 
-  <h2><b>Bridging the gap between High-Performance AI and Offensive Cybersecurity.</b></h2>
-  <h3><i>Expected 2027 • Manipal Institute of Technology • Based in Abu Dhabi, UAE</i></h3>
+  <h3><b>Bridging the gap between High-Performance AI and Offensive Cybersecurity.</b></h3>
+  <p><i>Expected 2027 • Manipal Institute of Technology • Based in Abu Dhabi, UAE</i></p>
 
   <br>
 
@@ -26,7 +26,7 @@ I am a driven 4th-year Computer Science student specializing in Artificial Intel
 ## Neural & Security Architecture
 
 <details open>
-<summary><h3>View Technical Stack</h3></summary>
+<summary><b>View Technical Stack</b></summary>
 <br>
 
 | Domain | Technologies |
@@ -54,19 +54,19 @@ I am a driven 4th-year Computer Science student specializing in Artificial Intel
 > ⚠️ **Note:** *The following are advanced research frameworks currently maintained locally, intended for publication as academic papers when the opportunity presents itself. Source code, architectures, and detailed documentation are available upon request validation.*
 
 <details>
-<summary><h3>1. Adversarial Traffic Synthesis Engine</h3></summary>
+<summary><b>1. Adversarial Traffic Synthesis Engine</b></summary>
 <br>
 A long-term project, aimed at a comprehensive red team operations pipeline combining Diffusion Transformers (DiT), WGAN-GP, and Reinforcement Learning to generate polymorphic synthetic cyberattack data. Engineered with hardware-specific optimizations to stress-test and bypass multi-layered Intrusion Detection Systems (IDS) for enterprise security infrastructure evaluation.
 </details>
 
 <details>
-<summary><h3>2. MLX Machine Unlearning Framework</h3></summary>
+<summary><b>2. MLX Machine Unlearning Framework</b></summary>
 <br>
 Developed an Apple MLX native framework (Hybrid Saliency Guided NPO) to achieve machine unlearning on small to mid-scale (1B-14B) models. Successfully deployed 16-Bit, 8-Bit, and 4-Bit quantizations without catastrophic collapse, ensuring high performance on consumer-grade devices.
 </details>
 
 <details>
-<summary><h3>3. API Sequence Graph Classification</h3></summary>
+<summary><b>3. API Sequence Graph Classification</b></summary>
 <br>
 Engineered a Graph Neural Network (GNN) using Apple's MLX and `mlx-graphs` to classify sequential anomaly data by modeling API call sequences as structural graphs. Benchmarked against MLP/RF baselines, utilizing SHAP and occlusion analysis for actionable insights on influential data points.
 </details>
@@ -82,6 +82,6 @@ Engineered a Graph Neural Network (GNN) using Apple's MLX and `mlx-graphs` to cl
 
 <div align="center">
   <br><br>
-  <h3><code>[ END OF TRANSMISSION ]</code></h3>
+  <p><code><strong>[ END OF TRANSMISSION ]</strong></code></p>
   <code>01011001 01101111 01110101 00100000 01110011 01101000 01101111 01110101 01101100 01100100 00100000 01110010 01100101 01100001 01101100 01101100 01111001 00100000 01100110 01101001 01101110 01100100 00100000 01100001 01101110 01101111 01110100 01101000 01100101 01110010 00100000 01101000 01101111 01100010 01100010 01111001 00100000 00111011 00101001</code>
 </div>
