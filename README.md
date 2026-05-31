@@ -86,8 +86,6 @@ Engineered a Graph Neural Network (GNN) using Apple's MLX and `mlx-graphs` to cl
 
 ---
 <div align="center">
-  
-```bash
-root@neutron:~# exit
-logout
-Connection to 192.168.1.5 closed.
+  <p><i>"In God we trust. All others must bring data."</i></p>
+  <img src="https://profile-counter.glitch.me/KIRAN-GITHUB123/count.svg" alt="Visitor Count" />
+</div>
