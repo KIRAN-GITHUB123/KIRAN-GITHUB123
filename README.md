@@ -50,7 +50,8 @@ I am a driven 4th-year Computer Science student specializing in Artificial Intel
     Designed a relational database (27 tables, 3NF) for high-integrity business data management, integrating an AI module using Linear Regression for automated financial forecasting.
 
 ## Local Research & Development
-> **⚠️ Note:** *The following are advanced research frameworks currently maintained locally, intended for upcoming academic publication. Source code and architectural details are available upon request for interviews or collaborations.*
+> **⚠️ Note:** *The following are advanced research frameworks currently maintained locally, intended for upcoming academic publication. The source code, architectural diagrams, and performance benchmarks are available for private technical walkthroughs during interviews.
+
 
 <details>
 <summary><b>1. IDS Resilience Engine</b></summary>
