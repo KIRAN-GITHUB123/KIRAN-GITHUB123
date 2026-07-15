@@ -23,7 +23,6 @@
 I am a 4th-year Computer Science student specializing in AI and Machine Learning. I love working at the intersection of deep learning and cybersecurity. My focus is on building scalable big data profiling pipelines, developing graph-based neural architectures, and orchestrating IDS stress tests. I enjoy tackling everything from high-performance data parsing to rigorous statistical benchmarking and automated reporting. Currently, I am open to freelance opportunities, collaborations, and internships.
 
 ## Neural & Security Architecture
-<summary><b>View Technical Stack</b></summary>
 <br>
 
 | Domain | Technologies |
