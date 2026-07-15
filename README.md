@@ -49,6 +49,10 @@ I am a driven 4th-year Computer Science student specializing in Artificial Intel
     *Enterprise DBMS & Predictive Analytics.* <br>
     Designed a relational database (27 tables, 3NF) for high-integrity business data management, integrating an AI module using Linear Regression for automated financial forecasting.
 
+* **[MLX-Native-Machine-Unlearning](https://github.com/KIRAN-GITHUB123/apple-silicon-unlearning)** <br>
+  *Systematic Evaluation of Unlearning Algorithms natively on Apple Silicon.* <br>
+    A fully automated MLX framework utilizing the TOFU benchmark to evaluate five SOTA unlearning algorithms across multiple LLM architectures (1.1B–14B). Features a complete end-to-end pipeline—from fine-tuning and dual-track unlearning to quantization and downstream benchmarking—designed to robustly validate baselines and democratize unlearning research on consumer-grade hardware.
+
 ## Local Research & Development
 > **⚠️ Note:** *The following are advanced research frameworks currently maintained locally, intended for upcoming academic publication. The source code, architectural diagrams, and performance benchmarks are available for private technical walkthroughs during interviews.*
 
