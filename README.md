@@ -7,7 +7,7 @@
   </a>
   <br><br>
 
-  <h3><b>Bridging the gap between High-Performance AI and Offensive Cybersecurity.</b></h3>
+  <h3><b>Bridging the gap between high-performance AI and offensive cybersecurity.</b></h3>
   <p><i>Expected 2027 • Manipal Institute of Technology • Based in Abu Dhabi, UAE</i></p>
 
   <br>
@@ -20,7 +20,7 @@
 <br>
 
 ## Profile Brief
-I am a driven 4th-year Computer Science student specializing in Artificial Intelligence and Machine Learning. My engineering focus lies at the intersection of deep learning and cybersecurity—building scalable big data profiling pipelines, developing graph-based neural architectures, and orchestrating IDS stress tests; from high-performance data parsing and feature extraction to rigorous statistical benchmarking and automated reporting. I am currently open to freelance opportunities, collaborations, and internships.
+I am a 4th-year Computer Science student specializing in AI and Machine Learning. I love working at the intersection of deep learning and cybersecurity. My focus is on building scalable big data profiling pipelines, developing graph-based neural architectures, and orchestrating IDS stress tests. I enjoy tackling everything from high-performance data parsing to rigorous statistical benchmarking and automated reporting. Currently, I am open to freelance opportunities, collaborations, and internships.
 
 ## Neural & Security Architecture
 
@@ -40,21 +40,21 @@ I am a driven 4th-year Computer Science student specializing in Artificial Intel
 ## Public Open-Source Frameworks
 
 * **[OSINT-VTM](https://github.com/KIRAN-GITHUB123/OSNIT-VTM)** <br>
-    *A hybrid classical-deep learning framework for automated visual threat intelligence.* <br>
-    Scans geospatial data via the Mapillary API to identify physical anomalies using OpenCV, featuring automated analytics with HOG person detection and dynamic PDF reporting.
+    *A hybrid classical and deep learning framework for automated visual threat intelligence.* <br>
+    It scans geospatial data via the Mapillary API to identify physical anomalies using OpenCV. The system features automated analytics with HOG person detection and dynamic PDF reporting.
 * **[pyspark_threat_intelligence_engine](https://github.com/KIRAN-GITHUB123/pyspark_threat_intelligence_engine)** <br>
     *Scalable Big Data Profiling Pipeline.* <br>
-    Engineered a scalable PySpark pipeline utilizing MLlib (K-Means) to process, cluster, and track behavioral anomalies across 9.1M+ complex network records (CIC-Collection). 
+    I engineered a scalable PySpark pipeline utilizing MLlib (K-Means) to process, cluster, and track behavioral anomalies across more than 9.1 million complex network records from the CIC-Collection. 
 * **[nexlify](https://github.com/KIRAN-GITHUB123/nexlify)** <br>
     *Enterprise DBMS & Predictive Analytics.* <br>
-    Designed a relational database (27 tables, 3NF) for high-integrity business data management, integrating an AI module using Linear Regression for automated financial forecasting.
+    I designed a relational database (27 tables, 3NF) for high-integrity business data management and integrated an AI module using Linear Regression for automated financial forecasting.
 
 * **[MLX-Native-Machine-Unlearning](https://github.com/KIRAN-GITHUB123/apple-silicon-unlearning)** <br>
   *Systematic Evaluation of Unlearning Algorithms natively on Apple Silicon.* <br>
-    A fully automated MLX framework utilizing the TOFU benchmark to evaluate five SOTA unlearning algorithms across multiple LLM architectures (1.1B–14B). Features a complete end-to-end pipeline—from fine-tuning and dual-track unlearning to quantization and downstream benchmarking—designed to robustly validate baselines and democratize unlearning research on consumer-grade hardware.
+    A fully automated MLX framework that uses the TOFU benchmark to evaluate five state-of-the-art unlearning algorithms across various LLM architectures (1.1B to 14B). It features a complete end-to-end pipeline covering everything from fine-tuning and dual-track unlearning to quantization and downstream benchmarking. This project was designed to robustly validate baselines and make unlearning research more accessible on consumer-grade hardware.
 
 ## Local Research & Development
-> **⚠️ Note:** *The following are advanced research frameworks currently maintained locally, intended for upcoming academic publication. The source code, architectural diagrams, and performance benchmarks are available for private technical walkthroughs during interviews.*
+> **⚠️ Note:** *The following are advanced research frameworks currently maintained locally and intended for upcoming academic publication. The source code, architectural diagrams, and performance benchmarks are available for private technical walkthroughs during interviews.*
 
 
 <details>
@@ -66,20 +66,20 @@ A long-term research framework that leverages Diffusion Transformers (DiT), WGAN
 <details>
 <summary><b>2. MLX Machine Unlearning Framework</b></summary>
 <br>
-Developed an Apple MLX native framework (Hybrid Saliency Guided NPO) to achieve machine unlearning on small to mid-scale (1B-14B) models. Successfully deployed 16-Bit, 8-Bit, and 4-Bit quantizations without catastrophic collapse, ensuring high performance on consumer-grade devices.
+I developed an Apple MLX native framework (Hybrid Saliency Guided NPO) to achieve machine unlearning on small to mid-scale models. I successfully deployed 16-Bit, 8-Bit, and 4-Bit quantizations without catastrophic collapse, ensuring high performance on consumer-grade devices.
 </details>
 
 <details>
-<summary><b>3. Comparative Analysis: Structure vs Semantics in API Sequences</b></summary>
+<summary><b>3. Comparative Analysis: Structure vs. Semantics in API Sequences</b></summary>
 <br>
-An investigative framework benchmarking Graph Neural Networks (GNNs) against classical ML baselines (e.g., TF-IDF + Random Forest). Utilizing statistical significance tests (McNemar, Wilcoxon) and SHAP interpretability to evaluate the actual necessity of high-complexity graph architectures in malware detection pipelines.
+An investigative framework benchmarking Graph Neural Networks (GNNs) against classical ML baselines like TF-IDF and Random Forest. It utilizes statistical significance tests (McNemar, Wilcoxon) and SHAP interpretability to evaluate the actual necessity of high-complexity graph architectures in malware detection pipelines.
 </details>
 
 ## 📜 Publications & Certifications
 
 **Academic Research**
-* **Co-Author:** [*Lightweight Learning Chat Bot Using Sentence Embeddings for Contextual Similarity Matching*](https://doi.org/10.1109/AISTS66100.2025.11233150) — Published at **IEEE AISTS 2025** (Intl. Conf. on AI & Smart Technologies for Sustainability).
-* **Author:** *The False Stability Paradox: A Multi-Algorithm Analysis of Label Granularity in Big Data Cybersecurity Clustering* — Currently under review at the **Journal of Big Data**.
+* **Co-Author:** [*Lightweight Learning Chat Bot Using Sentence Embeddings for Contextual Similarity Matching*](https://doi.org/10.1109/AISTS66100.2025.11233150) (Published at **IEEE AISTS 2025**, the International Conference on AI & Smart Technologies for Sustainability).
+* **Author:** *The False Stability Paradox: A Multi-Algorithm Analysis of Label Granularity in Big Data Cybersecurity Clustering* (Currently under review at the **Journal of Big Data**).
 
 **Industry Certifications**
 > `Google Cybersecurity` | `CISCO Intro to Cybersecurity` | `Palo Alto Cyber Security Fundamentals` | `ArcX Cyber Threat Intel 101`
