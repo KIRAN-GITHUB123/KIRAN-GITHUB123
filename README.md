@@ -1,10 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17130D,50:A8321E,100:1B4B8F&height=170&section=header&text=Kiran%20Kolavil%20Puleri&fontSize=42&fontColor=EFE7D6&animation=fadeIn&fontAlignY=38&desc=AI%20Governance%20%E2%80%A2%20Cyber%20Risk%20%E2%80%A2%20Model%20Assurance&descAlignY=60&descSize=16" width="100%" />
+  <h1 align="center">Kiran Kolavil Puleri</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=1000&color=46E0C8&center=true&vCenter=true&width=850&lines=CSE+(AI+%26+ML)+Undergraduate;AI+Governance+%26+Cyber+Risk+Assurance;IEEE+AISTS+2025+Published+Co-Author;Machine+Unlearning+%26+Erasure+Compliance+(MLX);Graph+Neural+Networks+%26+SHAP+Validation;9.1M%2B+Records+Big+Data+Threat+Profiling;OSINT+%26+Automated+Security+Reporting" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3200&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=CSE+(AI+%26+ML)+Undergraduate;AI+Governance+%26+Cyber+Risk+Assurance;IEEE+AISTS+2025+Published+Co-Author;Machine+Unlearning+%26+Erasure+Compliance+(MLX);Graph+Neural+Networks+%26+SHAP+Validation;9.1M%2B+Records+Big+Data+Threat+Profiling;OSINT+%26+Automated+Security+Reporting" alt="Typing SVG" />
   </a>
+  <br><br>
 
   <h3><b>Making statistical systems auditable: I can read the code and write the report.</b></h3>
   <p><i>Expected 2027 • Manipal Institute of Technology • Based in Abu Dhabi, UAE</i></p>
@@ -14,7 +15,7 @@
 
   [![Portfolio](https://img.shields.io/badge/The_Assurance_Gazette-17130D?style=for-the-badge&logo=vercel&logoColor=EFE7D6)](https://kirankp.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-kolavil-puleri-kp/)
-  [![Email](https://img.shields.io/badge/Email-A8321E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirankolavilpuleri@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirankolavilpuleri@gmail.com)
 
 </div>
 
@@ -23,8 +24,6 @@
 ## Profile Brief
 
 Final-year Computer Science (AI/ML) undergraduate and IEEE-published researcher working at the intersection of deep learning, cybersecurity, and risk assurance. My work focuses on building scalable big data profiling pipelines, benchmarking machine unlearning for erasure compliance, validating graph-based neural architectures with SHAP and statistical significance testing, and translating technical findings into executive-ready reports. Currently open to 6-month internships (Jan to Jul 2027), freelance engagements, and research collaborations.
-
----
 
 ## Governance & Technical Architecture
 
@@ -35,8 +34,6 @@ Final-year Computer Science (AI/ML) undergraduate and IEEE-published researcher 
 | **Deep Learning & AI** | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/docs/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/api_docs) [![Apple MLX](https://img.shields.io/badge/Apple_MLX-000000?style=for-the-badge&logo=apple&logoColor=white)](https://ml-explore.github.io/mlx/build/html/index.html) [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/user_guide.html) |
 | **Big Data & Compute** | [![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/) [![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white)](https://hadoop.apache.org/docs/current/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://docs.opencv.org/) |
 | **Security & Validation** | `Model Validation` `SHAP Interpretability` `Monte Carlo Stability` `Malware Analytics` `Network Threat Profiling` `OSINT` `IDS Stress Testing` `Automated Reporting` |
-
----
 
 ## Public Open-Source Frameworks
 
@@ -60,54 +57,17 @@ Final-year Computer Science (AI/ML) undergraduate and IEEE-published researcher 
   *Enterprise DBMS, Integrity Controls & Predictive Analytics.*  
   Fully normalized (3NF) 27-table relational database with custom SQL triggers enforcing 100% referential integrity, paired with a Linear Regression forecasting module for automated financial and BI reporting.
 
----
-
-## Local Research & Development
-
-> **⚠️ Note:** *The following are advanced research frameworks currently maintained locally and intended for upcoming academic publication. Source code, architectural diagrams, and performance benchmarks are available for private technical walkthroughs during interviews.*
-
-<details>
-<summary><b>1. GNN Sentinel: Structure vs. Semantics in Malware API Sequences</b></summary>
-<br>
-An investigative framework benchmarking custom Apple MLX Graph Neural Networks (GNNs) against classical ML baselines (TF-IDF, Random Forest). Utilizes paired statistical significance testing (McNemar, Wilcoxon) and SHAP attribution consistency to evaluate deployment trustworthiness and model transparency.
-</details>
-
-<details>
-<summary><b>2. IDS Resilience Engine</b></summary>
-<br>
-A long-term research framework leveraging Diffusion Transformers (DiT), WGAN-GP, and Reinforcement Learning to generate high-fidelity, polymorphic synthetic network traffic. Focuses on hardware-optimized synthesis pipelines for enterprise-grade IDS stress testing and detection-gap analysis.
-</details>
-
-<details>
-<summary><b>3. Hybrid Saliency-Guided NPO Unlearning (MLX)</b></summary>
-<br>
-Apple MLX-native unlearning framework for small to mid-scale models, deploying 16-bit, 8-bit, and 4-bit quantizations without catastrophic collapse on consumer-grade hardware.
-</details>
-
----
-
 ## Publications & Certifications
 
 **Academic Research**
-- **Published (Co-Author):** [*Lightweight Learning Chat Bot Using Sentence Embeddings for Contextual Similarity Matching*](https://doi.org/10.1109/AISTS66100.2025.11233150) (Published at **IEEE AISTS 2025**, International Conference on AI & Smart Technologies for Sustainability).
-- **Under Review (Author):** *The False Stability Paradox: A Multi-Algorithm Analysis of Label Granularity in Big Data Cybersecurity Clustering* (Manuscript under review at the **Journal of Big Data**).
+- **Co-Author:** [*Lightweight Learning Chat Bot Using Sentence Embeddings for Contextual Similarity Matching*](https://doi.org/10.1109/AISTS66100.2025.11233150) (Published at **IEEE AISTS 2025**, International Conference on AI & Smart Technologies for Sustainability).
+- **Author:** *The False Stability Paradox: A Multi-Algorithm Analysis of Label Granularity in Big Data Cybersecurity Clustering* (Manuscript under review at the **Journal of Big Data**).
 
 **Industry Certifications**
 > `Cisco Junior Cybersecurity Analyst (Career Path, 2025)` | `Google Cybersecurity` | `Cisco Intro to Cybersecurity` | `Palo Alto Cyber Security Fundamentals` | `ArcX Cyber Threat Intel 101`
 
----
-
-## Live Telemetry
-
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=KIRAN-GITHUB123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0C0A08&title_color=46E0C8&icon_color=E4572E&text_color=EAE6DC" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRAN-GITHUB123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0C0A08&title_color=46E0C8&text_color=EAE6DC" />
-</div>
-
-<div align="center">
-  <br>
+  <br><br>
   <p><code><strong>[ END OF TRANSMISSION ]</strong></code></p>
   <code>01011001 01101111 01110101 00100000 01110011 01101000 01101111 01110101 01101100 01100100 00100000 01110010 01100101 01100001 01101100 01101100 01111001 00100000 01100110 01101001 01101110 01100100 00100000 01100001 01101110 01101111 01110100 01101000 01100101 01110010 00100000 01101000 01101111 01100010 01100010 01111001 00100000 00111011 00101001</code>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17130D,50:A8321E,100:1B4B8F&height=90&section=footer" width="100%" />
 </div>
