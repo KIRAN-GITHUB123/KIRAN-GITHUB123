@@ -64,12 +64,9 @@ Fully normalized (3NF) 27-table relational database with custom SQL triggers enf
 - **Author:** *The False Stability Paradox: A Multi-Algorithm Analysis of Label Granularity in Big Data Cybersecurity Clustering* (Manuscript under review at the **Journal of Big Data**).
 
 ### Industry Certifications
-![Cisco Junior Cybersecurity Analyst](https://img.shields.io/badge/Cisco_Junior_Cybersecurity_Analyst_(2025)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Cisco Intro to Cybersecurity](https://img.shields.io/badge/Cisco_Intro_to_Cybersecurity-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![Palo Alto Cyber Security Fundamentals](https://img.shields.io/badge/Palo_Alto_Cyber_Security_Fundamentals-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
-![ArcX Cyber Threat Intel 101](https://img.shields.io/badge/ArcX_Cyber_Threat_Intel_101-17130D?style=for-the-badge)
-
+[![Cisco Junior Cybersecurity Analyst](https://img.shields.io/badge/Cisco_Junior_Cybersecurity_Analyst_(2025)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/19ae5b56-9376-4083-8a88-e351617f6948/public_url)
+[![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/Q09Y02RDMOEW)
+[![ArcX Cyber Threat Intel 101](https://img.shields.io/badge/ArcX_Cyber_Threat_Intel_101-17130D?style=for-the-badge)](https://arcx.io/verify-certificate?id=3994abd7f1ea131676b042e6d076ac902f3ce3d9&k=0c6b570962234d858e6a1e4ea05d9c81)
 <div align="center">
   <br><br>
   <h3><code>[ END OF TRANSMISSION ]</code></h3>
