@@ -3,13 +3,13 @@
   <h1 align="center">Kiran Kolavil Puleri</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3200&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=CSE+(AI+%26+ML)+Undergraduate;AI+Governance+%26+Cyber+Risk+Assurance;IEEE+AISTS+2025+Published+Co-Author;Machine+Unlearning+%26+Erasure+Compliance+(MLX);Graph+Neural+Networks+%26+SHAP+Validation;9.1M%2B+Records+Big+Data+Threat+Profiling;OSINT+%26+Automated+Security+Reporting" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3200&pause=1000&color=00FF9C&center=true&vCenter=true&width=950&lines=CSE+(AI+%26+ML)+Undergraduate;AI+Governance+%26+Cyber+Risk+Assurance;IEEE+AISTS+2025+Published+Co-Author;Machine+Unlearning+%26+Erasure+Compliance+(MLX);Graph+Neural+Networks+%26+SHAP+Validation;9.1M%2B+Records+Big+Data+Threat+Profiling;OSINT+%26+Automated+Security+Reporting" alt="Typing SVG" />
   </a>
   <br><br>
 
-  <h3><b>Making statistical systems auditable: I can read the code and write the report.</b></h3>
-  <p><i>Expected 2027 • Manipal Institute of Technology • Based in Abu Dhabi, UAE</i></p>
-  <p><i>Seeking a 6-month final-semester internship in GRC, AI Governance, or Cyber Risk (January to July 2027)</i></p>
+  <h2>Making statistical systems auditable: I can read the code and write the report.</h2>
+  <h3><i>Expected 2027 • Manipal Institute of Technology • Based in Abu Dhabi, UAE</i></h3>
+  <h4>Seeking a 6-month final-semester internship in GRC, AI Governance, or Cyber Risk (January to July 2027)</h4>
 
   <br>
 
@@ -37,37 +37,41 @@ Final-year Computer Science (AI/ML) undergraduate and IEEE-published researcher 
 
 ## Public Open-Source Frameworks
 
-- **[MLX-Native-Machine-Unlearning](https://github.com/KIRAN-GITHUB123/apple-silicon-unlearning)**  
-  `GDPR Art. 17` `UAE PDPL` `NIST AI RMF · MANAGE` `Apple MLX` `TOFU`  
-  *Systematic Evaluation of Unlearning Algorithms natively on Apple Silicon.*  
-  A fully automated MLX framework using the TOFU benchmark to evaluate five state-of-the-art unlearning algorithms across LLM architectures (1.1B to 14B) with 4/8-bit quantization (-50% memory), making right-to-erasure verification reproducible on consumer-grade hardware.
+### [MLX-Native-Machine-Unlearning](https://github.com/KIRAN-GITHUB123/apple-silicon-unlearning)
+`GDPR Art. 17` `UAE PDPL` `NIST AI RMF · MANAGE` `Apple MLX` `TOFU`  
+*Systematic Evaluation of Unlearning Algorithms natively on Apple Silicon.*  
+A fully automated MLX framework using the TOFU benchmark to evaluate five state-of-the-art unlearning algorithms across LLM architectures (1.1B to 14B) with 4/8-bit quantization (-50% memory), making right-to-erasure verification reproducible on consumer-grade hardware.
 
-- **[pyspark_threat_intelligence_engine](https://github.com/KIRAN-GITHUB123/pyspark_threat_intelligence_engine)**  
-  `NIST CSF 2.0 · DETECT` `ISO 27001 · A.8.16` `PySpark` `MLlib` `Monte Carlo`  
-  *Enterprise-Scale Big Data Profiling Pipeline.*  
-  Scalable PySpark pipeline utilizing MLlib (K-Means) to process, cluster, and track behavioral anomalies across 9.1M+ complex network records from the CIC-Collection, with load sustainability proven via Monte Carlo simulation.
+### [pyspark_threat_intelligence_engine](https://github.com/KIRAN-GITHUB123/pyspark_threat_intelligence_engine)
+`NIST CSF 2.0 · DETECT` `ISO 27001 · A.8.16` `PySpark` `MLlib` `Monte Carlo`  
+*Enterprise-Scale Big Data Profiling Pipeline.*  
+Scalable PySpark pipeline utilizing MLlib (K-Means) to process, cluster, and track behavioral anomalies across 9.1M+ complex network records from the CIC-Collection, with load sustainability proven via Monte Carlo simulation.
 
-- **[OSINT-VTM](https://github.com/KIRAN-GITHUB123/OSNIT-VTM)**  
-  `ISO 27001 · A.7 Physical` `OpenCV HOG` `Mapillary API` `ReportLab`  
-  *Automated Visual Threat Intelligence & Reporting.*  
-  Hybrid classical and deep-learning framework scanning geospatial data via the Mapillary API to flag physical-security anomalies using OpenCV HOG person detection, compiling structured PDF findings automatically.
+### [OSINT-VTM](https://github.com/KIRAN-GITHUB123/OSNIT-VTM)
+`ISO 27001 · A.7 Physical` `OpenCV HOG` `Mapillary API` `ReportLab`  
+*Automated Visual Threat Intelligence & Reporting.*  
+Hybrid classical and deep-learning framework scanning geospatial data via the Mapillary API to flag physical-security anomalies using OpenCV HOG person detection, compiling structured PDF findings automatically.
 
-- **[nexlify](https://github.com/KIRAN-GITHUB123/nexlify)**  
-  `NIST CSF 2.0 · PROTECT` `SQL` `3NF` `Scikit-Learn`  
-  *Enterprise DBMS, Integrity Controls & Predictive Analytics.*  
-  Fully normalized (3NF) 27-table relational database with custom SQL triggers enforcing 100% referential integrity, paired with a Linear Regression forecasting module for automated financial and BI reporting.
+### [nexlify](https://github.com/KIRAN-GITHUB123/nexlify)
+`NIST CSF 2.0 · PROTECT` `SQL` `3NF` `Scikit-Learn`  
+*Enterprise DBMS, Integrity Controls & Predictive Analytics.*  
+Fully normalized (3NF) 27-table relational database with custom SQL triggers enforcing 100% referential integrity, paired with a Linear Regression forecasting module for automated financial and BI reporting.
 
 ## Publications & Certifications
 
-**Academic Research**
+### Academic Research
 - **Co-Author:** [*Lightweight Learning Chat Bot Using Sentence Embeddings for Contextual Similarity Matching*](https://doi.org/10.1109/AISTS66100.2025.11233150) (Published at **IEEE AISTS 2025**, International Conference on AI & Smart Technologies for Sustainability).
 - **Author:** *The False Stability Paradox: A Multi-Algorithm Analysis of Label Granularity in Big Data Cybersecurity Clustering* (Manuscript under review at the **Journal of Big Data**).
 
-**Industry Certifications**
-> `Cisco Junior Cybersecurity Analyst (Career Path, 2025)` | `Google Cybersecurity` | `Cisco Intro to Cybersecurity` | `Palo Alto Cyber Security Fundamentals` | `ArcX Cyber Threat Intel 101`
+### Industry Certifications
+![Cisco Junior Cybersecurity Analyst](https://img.shields.io/badge/Cisco_Junior_Cybersecurity_Analyst_(2025)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cisco Intro to Cybersecurity](https://img.shields.io/badge/Cisco_Intro_to_Cybersecurity-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![Palo Alto Cyber Security Fundamentals](https://img.shields.io/badge/Palo_Alto_Cyber_Security_Fundamentals-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+![ArcX Cyber Threat Intel 101](https://img.shields.io/badge/ArcX_Cyber_Threat_Intel_101-17130D?style=for-the-badge)
 
 <div align="center">
   <br><br>
-  <p><code><strong>[ END OF TRANSMISSION ]</strong></code></p>
+  <h3><code>[ END OF TRANSMISSION ]</code></h3>
   <code>01011001 01101111 01110101 00100000 01110011 01101000 01101111 01110101 01101100 01100100 00100000 01110010 01100101 01100001 01101100 01101100 01111001 00100000 01100110 01101001 01101110 01100100 00100000 01100001 01101110 01101111 01110100 01101000 01100101 01110010 00100000 01101000 01101111 01100010 01100010 01111001 00100000 00111011 00101001</code>
 </div>
